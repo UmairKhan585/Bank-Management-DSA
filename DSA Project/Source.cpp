@@ -515,11 +515,11 @@ int main()
 		cout << "\t\t\t\t|\t'Choose your Best'\t\t|" << endl;
 		cout << "\t\t\t\t" << setw(41) << setfill('-') << "-" << endl << endl;
 		cout << "\t\t\t\t" << setw(41) << setfill('-') << "" << endl;
-		cout << "\t\t\t\t" << "|" << "\tMADE BY :: OMAR IKRAM," << "\t\t|" << endl;
+		cout << "\t\t\t\t" << "|" << "\tMADE BY :: UMAIR MUNIR," << "\t\t|" << endl;
 		cout << "\t\t\t\t" << "|" << "\t\t " << "\t\t\t|" << endl;
 		cout << "\t\t\t\t" << "|" << "\t\t QIRAB HASSAN " << "\t\t|" << endl;
 		cout << "\t\t\t\t" << "|" << "\t\t      &" << "\t\t\t|" << endl;
-		cout << "\t\t\t\t" << "|" << "\t\tUMAIR MUNIR " << "\t\t|" << endl;
+		cout << "\t\t\t\t" << "|" << "\t\OMAR IKRAM " << "\t\t|" << endl;
 		cout << "\t\t\t\t" << setw(41) << setfill('-') << "" << endl << endl;
 		Sleep(2000);
 		cout << "\t\t\t\t\t\tMain Menu" << endl;
